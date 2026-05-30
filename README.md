@@ -19,7 +19,7 @@ via nginx User-Agent detection), then tap straight into any of the 13 responsive
 
 RiverWatch · Fire Watcher · Hunt & Fish Forecast · Hunting Season Tracker ·
 Deer Collision Radar · Ramp Radar · Burn Permit Checker · Field Reports ·
-Truck Finder · Friday Night Scoreboard · Family Fun Finder · Night Sky Guide ·
+Truck Finder · Scoreboard · Family Fun Finder · Night Sky Guide ·
 Outdoors Dashboard
 
 ## Deploy
