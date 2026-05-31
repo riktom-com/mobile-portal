@@ -4,7 +4,7 @@ The mobile hub for riktom.com — **[m.riktom.com](https://m.riktom.com)**
 
 A fast, lightweight landing page that serves as the mobile entry point for the entire
 riktom.com app suite. Mobile visitors to `riktom.com` are redirected here (server-side,
-via nginx User-Agent detection), then tap straight into any of the 13 responsive apps.
+via nginx User-Agent detection), then tap straight into any of the 15 responsive apps.
 
 ## How it works
 
@@ -17,10 +17,10 @@ via nginx User-Agent detection), then tap straight into any of the 13 responsive
 
 ## Apps linked
 
-RiverWatch · Fire Watcher · Hunt & Fish Forecast · Hunting Season Tracker ·
+LocalHelp · RiverWatch · Fire Watcher · Hunt & Fish Forecast · Hunting Season Tracker ·
 Deer Collision Radar · Ramp Radar · Burn Permit Checker · Field Reports ·
 Truck Finder · Scoreboard · Family Fun Finder · Night Sky Guide ·
-Outdoors Dashboard
+Outdoors Dashboard · Storm Desk
 
 ## Deploy
 
